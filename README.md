@@ -2,7 +2,7 @@
 
 Utilizes the Desktop Info plugin for a Demo [More info](https://pub.dev/packages/desktop_info).
 
-## 📸 Screen Shots
+## 📸 Screenshot
 
 <p float="left">
 <img src="https://github.com/Zfinix/desktop_info_app/blob/main/meta/1.png?raw=true" width="2000">
